@@ -1,5 +1,6 @@
 # -test_137
 Тестовое задание Python
+Таблица: https://docs.google.com/spreadsheets/d/1wblE8-OdpF3avmnZhDvsShxG6Z2EFvBpXgDyiZngSnU/
 # quick Start
 
 1) Указать значения переменных для подключения к БД:
